@@ -1,4 +1,4 @@
-# auther @rebwar_me
+# author @rebwar_me
 # ------------------------------
 import os
 # ---------------------
